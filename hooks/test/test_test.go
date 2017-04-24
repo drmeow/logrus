@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/stretchr/testify/assert"
+	// "github.com/stretchr/testify/assert"
 )
 
 func TestAllHooks(t *testing.T) {
